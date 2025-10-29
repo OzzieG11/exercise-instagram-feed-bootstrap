@@ -50,6 +50,16 @@ Here you can watch each component separately:
 - [ ] Use all the possible [bootstrap utilities (helpers)](https://getbootstrap.com/docs/5.0/layout/utilities/), take your time to read them all because it will make your life 99% easier.
 - [ ] The projects have to be 100% responsive using the bootstrap grid system.
 
+### ✅ Requirements
+
+- [ ] A NavBar
+  - [ ] The Instagram logo and name
+  - [ ] A button with a Modal to create a new post
+  - [ ] A Dropdown menu
+
+- [ ] A button to switch to grid gallery image view
+- [ ] A button to switch to feed view
+
 ## 📒 Resources
 
 You have the online lesson about bootstrap and the cheat sheet about bootstrap in the assets section. We also recommend [Net Ninja's video tutorials on bootstrap](https://www.youtube.com/watch?v=QAgrHLtG1Yk).
